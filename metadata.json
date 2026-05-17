@@ -1,0 +1,8 @@
+{
+  "name": "Jolly Bells Ice Scoops",
+  "description": "Premium Ice Cream, Yogurt & Milkshakes in Kitengela, Kenya. Experience cool happiness in every scoop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
